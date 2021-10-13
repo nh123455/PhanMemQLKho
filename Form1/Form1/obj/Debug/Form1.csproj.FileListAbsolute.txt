@@ -1,0 +1,9 @@
+A:\Project\Form1\Form1\bin\Debug\Form1.exe.config
+A:\Project\Form1\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+A:\Project\Form1\Form1\obj\Debug\Form1.Form1.resources
+A:\Project\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+A:\Project\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+A:\Project\Form1\Form1\bin\Debug\Form1.exe
+A:\Project\Form1\Form1\bin\Debug\Form1.pdb
+A:\Project\Form1\Form1\obj\Debug\Form1.exe
+A:\Project\Form1\Form1\obj\Debug\Form1.pdb

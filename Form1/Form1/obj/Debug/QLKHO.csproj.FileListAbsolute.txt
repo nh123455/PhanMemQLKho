@@ -1,0 +1,54 @@
+A:\Project\Form1\Form1\bin\Debug\Form1.exe.config
+A:\Project\Form1\Form1\bin\Debug\Form1.exe
+A:\Project\Form1\Form1\bin\Debug\Form1.pdb
+A:\Project\Form1\Form1\obj\Debug\QLKHO.csprojResolveAssemblyReference.cache
+A:\Project\Form1\Form1\obj\Debug\Form1.Form1.resources
+A:\Project\Form1\Form1\obj\Debug\Form1.Form2.resources
+A:\Project\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+A:\Project\Form1\Form1\obj\Debug\QLKHO.csproj.GenerateResource.Cache
+A:\Project\Form1\Form1\obj\Debug\Form1.exe
+A:\Project\Form1\Form1\obj\Debug\Form1.pdb
+A:\Project\Form1\Form1\obj\Debug\Form1.Form3.resources
+A:\Project\Form1\Form1\obj\Debug\Form1.Form4.resources
+A:\Project\Form1\Form1\obj\Debug\Form1.Form5.resources
+A:\CSDLNC\Form1\Form1\bin\Debug\Form1.exe.config
+A:\CSDLNC\Form1\Form1\obj\Debug\Form1.exe
+A:\CSDLNC\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\QLKHO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form2.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form3.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form4.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form5.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form6.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Form7.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\QLKHO.csproj.GenerateResource.Cache
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.exe
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.pdb
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\bin\Debug\Form1.exe
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\bin\Debug\Form1.pdb
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\QLKHO.csprojResolveAssemblyReference.cache
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form2.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form3.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form4.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form5.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form6.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Form7.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\QLKHO.csproj.GenerateResource.Cache
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Menu.resources
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Màn Hình Desktop\all f-d\CSDLNC\Form1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\Admin\OneDrive\Máy tính\CSDLNC\Form1\Form1\obj\Debug\Form1.Menu.resources
+C:\Users\Admin\OneDrive\Máy tính\2001181240_HoangMinhhNhat_QLKHO\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Admin\OneDrive\Máy tính\2001181240_HoangMinhhNhat_QLKHO\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Admin\OneDrive\Máy tính\2001181240_HoangMinhhNhat_QLKHO\Form1\Form1\obj\Debug\Form1.pdb
